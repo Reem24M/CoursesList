@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import courseslist from "../../Data/data.json";
 import "./addcourse.css";
-import { useNavigate } from "react-router";
+import { useNavigate } from "react-router-dom";
 
 const AddCourse = () => {
   const [courseData, setCourseData] = useState({
