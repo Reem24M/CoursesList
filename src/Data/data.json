@@ -1,0 +1,121 @@
+{
+  "Courses": [
+    {
+      "id": 1,
+      "name": "Introduction to JavaScript",
+      "description": "Learn the basics of JavaScript, the programming language of the web.",
+      "startDate": "2025-05-01",
+      "endDate": "2025-06-01",
+      "price": 199,
+      "imageUrl": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Advanced React",
+      "description": "Dive deeper into React and learn about hooks, context API, and performance optimization.",
+      "startDate": "2025-06-15",
+      "endDate": "2025-08-15",
+      "price": 299,
+      "imageUrl": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Full-Stack Web Development",
+      "description": "Learn to build modern web applications using HTML, CSS, JavaScript, React, Node.js, and MongoDB.",
+      "startDate": "2025-06-01",
+      "endDate": "2025-09-30",
+      "price": 499,
+      "imageUrl": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Introduction to Python Programming",
+      "description": "A beginner-friendly course to master Python fundamentals and start writing your own scripts and applications.",
+      "startDate": "2025-07-15",
+      "endDate": "2025-08-15",
+      "price": 199,
+      "imageUrl": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "UI/UX Design Bootcamp",
+      "description": "Understand design principles and create stunning user interfaces with Figma and Adobe XD.",
+      "startDate": "2025-06-10",
+      "endDate": "2025-08-20",
+      "price": 299,
+      "imageUrl": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Data Science with Python",
+      "description": "Analyze data, create visualizations, and build predictive models using Pandas, Matplotlib, and Scikit-learn.",
+      "startDate": "2025-07-01",
+      "endDate": "2025-10-01",
+      "price": 599,
+      "imageUrl": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Digital Marketing Masterclass",
+      "description": "Learn SEO, content marketing, social media strategies, and analytics to grow your online presence.",
+      "startDate": "2025-08-01",
+      "endDate": "2025-09-15",
+      "price": 249,
+      "imageUrl": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Cloud Computing with AWS",
+      "description": "Understand cloud concepts, AWS services, and how to deploy applications in the cloud.",
+      "startDate": "2025-08-15",
+      "endDate": "2025-10-15",
+      "price": 399,
+      "imageUrl": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Cybersecurity Fundamentals",
+      "description": "Learn about network security, cryptography, and ethical hacking techniques.",
+      "startDate": "2025-09-01",
+      "endDate": "2025-11-01",
+      "price": 299,
+      "imageUrl": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Game Development with Unity",
+      "description": "Create 2D and 3D games using Unity and C# programming.",
+      "startDate": "2025-09-15",
+      "endDate": "2025-12-01",
+      "price": 399,
+      "imageUrl": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Mobile App Development with Flutter",
+      "description": "Build cross-platform mobile applications using Flutter and Dart.",
+      "startDate": "2025-10-01",
+      "endDate": "2025-12-15",
+      "price": 299,
+      "imageUrl": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Introduction to SQL",
+      "description": "Learn the basics of SQL and how to manage databases using MySQL.",
+      "startDate": "2025-10-15",
+      "endDate": "2025-11-15",
+      "price": 199,
+      "imageUrl": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Blockchain Basics",
+      "description": "Understand blockchain technology, cryptocurrencies, and smart contracts.",
+      "startDate": "2025-11-01",
+      "endDate": "2025-12-01",
+      "price": 299,
+      "imageUrl": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg"
+    }
+  ]
+}

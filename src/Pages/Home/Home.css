@@ -1,0 +1,37 @@
+
+.card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    transition: box-shadow 0.3s ease;
+    /* cursor: pointer; */
+  }
+ .button
+ {
+    background-color: #1abc9c;
+    margin: 20px 0;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 20px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+ }
+.button:hover {
+    background-color: #16a085;
+    transform: translateY(-2px);
+  }
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  .card-text {
+    font-size: 1rem;
+    color: #555;
+  }
+  .price {
+    font-size: 1.25rem;
+    color: #16a085;
+    font-weight: bold;
+  }

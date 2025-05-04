@@ -1,0 +1,39 @@
+.price {
+    color: rgb(3, 58, 255);
+    text-transform: uppercase;
+  }
+.editbutton
+{
+    text-decoration: none;
+    background-color: #1abc9c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.editbutton:hover
+{
+    background-color: #16a085;
+    transform: translateY(-2px);
+}
+.deletebutton
+{
+    text-decoration: none;
+    background-color: #bc1a1a;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+
+}
+.deletebutton:hover
+{
+    background-color: #a01616;
+    transform: translateY(-2px);
+}

@@ -1,0 +1,114 @@
+
+.edit-course-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin-top: 50px;
+  }
+  
+  .edit-course-card {
+    width: 100%;
+    max-width: 600px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    font-size: 1rem;
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  input[type="date"] {
+    font-family: Arial, sans-serif;
+  }
+  
+
+  .image-preview {
+    margin-top: 10px;
+    max-width: 200px;
+    height: auto;
+    display: block;
+  }
+  
+  .image-preview img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+
+  .btn {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    color: white;
+    width: 100%;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
+
+  @media (max-width: 768px) {
+    .edit-course-card {
+      padding: 20px;
+    }
+  
+    .btn-primary {
+      padding: 10px 15px;
+    }
+  
+    h2 {
+      font-size: 1.5rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .edit-course-card {
+      padding: 15px;
+    }
+  
+    .form-group label {
+      font-size: 0.9rem;
+    }
+  
+    .btn-primary {
+      font-size: 0.9rem;
+    }
+  
+    h2 {
+      font-size: 1.25rem;
+    }
+  }
+  

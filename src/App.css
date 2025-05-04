@@ -1,0 +1,29 @@
+:root {
+    --color-primary: #1E40AF;
+    --color-secondary: #64748B;
+    --color-accent: #38BDF8;
+    --color-success: #10B981;
+    --color-bg: #F8FAFC;
+    --color-text-primary: #1F2937;
+    --color-text-secondary: #6B7280;
+  }
+  
+  body {
+    background-color: var(--color-bg);
+    color: var(--color-text-primary);
+  }
+  
+  .card {
+    border-color: var(--color-secondary);
+  }
+  
+  .btn-primary {
+    background-color: var(--color-primary);
+    border-color: var(--color-primary);
+  }
+  
+  .btn-primary:hover {
+    background-color: var(--color-accent);
+    border-color: var(--color-accent);
+  }
+  
