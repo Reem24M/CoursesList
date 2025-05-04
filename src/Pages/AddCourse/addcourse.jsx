@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import courseslist from "../../Data/data.json";
-import "./AddCourse.css";
+import "./addcourse.css";
 import { useNavigate } from "react-router";
 
 const AddCourse = () => {
